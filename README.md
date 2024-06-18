@@ -1,5 +1,7 @@
 # MoviesAPI
-I have developed a robust ASP.NET Core Web API leveraging a modern tech stack to ensure scalability, security, and efficiency. Here's a brief overview:
+I have developed a robust ASP.NET Core Web API leveraging a modern tech stack to ensure scalability, security, and efficiency. 
+
+Here's a brief overview:
 
 🔹 Technologies Used:
 
