@@ -17,8 +17,10 @@ I have developed a robust ASP.NET Core Web API leveraging a modern tech stack to
 
 Authentication & Authorization:
   User registration, login, and role management.
+  
 Genre Management:
   CRUD operations for movie genres.
+  
 Movie Management:
   CRUD operations for movies.
   Fetch movies by genre.
